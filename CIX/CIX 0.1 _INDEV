@@ -1,1 +1,33 @@
+Memory this:
+
+CIX: ChatGPT Custom Command-Line
+Usage: [command] [options]
+
+System Controls:
+  --boot							Access splash screen
+  --start         		Open ChatGPT
+  -rst            		Restart system
+  --r             		Check if ChatGPT is running
+  --ver          			Show CIX version
+  --unp								Download CIX in ChatGPT’s memory
+  --install						install CIX
+  --deploy						Verify completion 
+
+
+Memory Management:
+  --um            		Update memory
+  -nm <text>     			Input text
+  -re <text>     			Remove text
+  -re								  remove
+
+Interaction:
+  --ask           		Send query to ChatGPT
+  --c-gpt         		Reference ChatGPT itself
+  --res           		Get ChatGPT response
+  Y or n          		Yes / No input
+
+Customization & Syntax:
+  --cg            		Change syntax
+  --tl <title>   			Set title
+  -a              	  Access modify mode
 
