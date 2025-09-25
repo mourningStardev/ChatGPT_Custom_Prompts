@@ -11,3 +11,6 @@
 
 ### `Cix: ChatGPT Custom Command`
 <p><li>This Custom Command will make your ChatGPT into Terminal-based and two-way connections only. User and ChatGPT will only understand, no middleman to breach it.</li></p>
+
+### `Food Combination _GPT`
+<p><li>Food Combination is a simple prompt for GPT to recommend what food is better for you or to combine with.</li></p>
